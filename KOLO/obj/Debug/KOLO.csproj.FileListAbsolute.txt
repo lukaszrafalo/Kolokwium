@@ -1,0 +1,2 @@
+D:\RR\KOLO\KOLO\bin\Debug\KOLO.exe.config
+D:\RR\KOLO\KOLO\obj\Debug\KOLO.csprojResolveAssemblyReference.cache
